@@ -1,9 +1,9 @@
 import { Box } from "@mui/material";
 
-export const HomePage = () => {
+export const SettingsPage = () => {
   return (
     <Box>
-      <h1>Home Content</h1>
+      <h1>Settings Content</h1>
     </Box>
   );
 };
